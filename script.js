@@ -15,5 +15,5 @@ document.getElementById('linkedinBtn').addEventListener('click', () => {
 });
 
 document.getElementById('showcaseBtn').addEventListener('click', () => {
-    window.location.href = 'Certi.html';
+    window.location.href = './Certi.html';
 });
